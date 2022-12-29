@@ -1,4 +1,4 @@
-# shardings-assignment-by-Diwakar-Singh
+# group-chat-app-by-Diwakar-Singh
 
 # How to clone?
 1) Copy the URL from the URL box
